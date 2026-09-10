@@ -1,3 +1,3 @@
-def main();
-    return"hi"
+def main():
+    return 'hi'
 main()
